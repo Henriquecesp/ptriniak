@@ -29,7 +29,7 @@
 
 ## 🚀 Technologys
 
-<img src=".github/godot.png" alt="Godot Engine" height="50">
+<img src=".github/godot.png" alt="Godot Engine" title="Godot Engine" height="50">
 
 ## 💻 Project
 
