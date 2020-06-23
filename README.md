@@ -21,7 +21,7 @@
   <a href="#-technologys">🚀 Technologys</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">💻 Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">🤔 How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-members">👦 Members</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boy-members">👦 Members</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">📝 License</a>
 </p>
 
@@ -30,7 +30,6 @@
 ## 🚀 Technologys
 
 <img src=".github/godot.png" alt="Godot Engine" height="50">
-<hr>
 
 ## 💻 Project
 
@@ -41,7 +40,6 @@
   <br>
   <small>Creds to <a src="https://dribbble.com/pakowacz">Paco</a></small>
 </div>
-<hr>
 
 ## 🤔 How to contribute
 
@@ -53,8 +51,6 @@
 After the merge of your pull request is done, you can delete your branch.
 
 ### You can also create an issue and send an idea, suggestion or bug!
-
-<hr>
 
 ## :boy: Members
 
